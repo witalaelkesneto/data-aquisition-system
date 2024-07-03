@@ -1,3 +1,5 @@
+// Trabalho Feito por Witalaelkes Neto e Samuel Henrique (Mesma dupla do seminário)
+
 #include <cstdlib>
 #include <iostream>
 #include <memory>
